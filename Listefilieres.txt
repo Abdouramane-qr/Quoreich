@@ -1,0 +1,15 @@
+RIT:Reseaux Informatique et Telecomunication
+
+RSI:Reseaux et Systeme d'information
+
+EII:Electronique Informatique Indistruel
+
+ELT:Electrotechnique
+
+GBM:Geni Bio Medical
+
+MI: Maintenace Infistruel
+
+MGC:Marketing et Gestion Commercial
+
+FC:Finance Comptabilité

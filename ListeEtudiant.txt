@@ -1,0 +1,57 @@
+Nom: KOLOGO
+Prenom :Salif
+numero :56
+date :2021-05-25
+filieres :EIINom: KAFANDO
+Prenom :SAYOUBA
+numero :56
+date :2021-05-15
+filieres :MGCNom: SAWADOGO
+Prenom :abdouramane
+numero :158
+date :2021-05-26
+filieres :RSINom: Bamabara
+Prenom :Ousseine
+numero :97
+date :2021-05-26
+filieres :FCNom: Bamabara
+Prenom :Ousseine
+numero :97
+date :2021-05-26
+filieres :FCNom: Bamabara
+Prenom :Ousseine
+numero :97
+date :2021-05-26
+filieres :FCNom: 
+Prenom :
+numero :0
+date :
+filieres :ListefilieresNom: 
+Prenom :
+numero :0
+date :
+filieres :ListefilieresNom: 
+Prenom :
+numero :0
+date :
+filieres :ListefilieresNom: 
+Prenom :
+numero :0
+date :
+filieres :ListefilieresNom: 
+Prenom :
+numero :0
+date :
+filieres :ListefilieresNom: 
+Prenom :
+numero :0
+date :
+filieres :ListefilieresNom: 
+Prenom :
+numero :0
+date :
+filieres :ListefilieresNom: SAWADOGO
+Prenom :abdouramane
+numero :97
+date :2021-05-29
+filieres :MGC
